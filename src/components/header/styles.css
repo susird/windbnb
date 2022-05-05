@@ -13,6 +13,10 @@
   border-radius: 14px;
 }
 
+.header-hidden {
+ display: none;
+}
+
 .city-button {
   border: none;
   height: 54px;
@@ -42,4 +46,86 @@
   font-size: 17px;
   padding: 18px;
   text-align: center;
+}
+
+.toggle-form {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+}
+
+.search-bar {
+  box-shadow: 0 0 4px #c0c0c04d;
+  border-radius: 14px;
+  width: 90%;
+  display: flex;
+  margin: 96px;
+}
+
+.location-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 30%;
+  border: 1px solid black;
+  border-radius: 17px;
+  padding: 4px 10px;
+}
+
+.location-title {
+  font-size: 10px;
+  text-align: initial;
+  margin: 4px 27px;
+}
+
+.search-open {
+  background: #EB5757;
+  border-radius: 0 15px 15px 0;
+  width: 67%;
+  height: 51px;
+  color: white;
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+  padding-right: 25px;
+}
+
+.location-open {
+  border: none;
+  background: transparent;
+  font-size: 16px;
+  margin: 4px 27px;
+}
+
+.guests-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 30%;
+  border: 1px solid rgb(237 233 233 / 40%);
+  padding: 4px 10px;
+  text-align: center;
+}
+
+.guests-open {
+  border: none;
+  margin: 4px 27px;
+}
+
+.search-container {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  align-items: center;
+}
+
+.search-img-open {
+  background: #EB5757;
+  height: 25px;
+  border-radius: 1px 0px 0px 1px;
+  box-shadow: 0 0 0 13px #eb5757;
+  padding-left: 20px;
 }
