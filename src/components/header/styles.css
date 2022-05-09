@@ -1,6 +1,6 @@
 .header-container {
   display: flex;
-  padding: 50px;
+  padding: 50px 80px;
   justify-content: space-between;
 }
 
@@ -11,6 +11,9 @@
 .form-container {
   box-shadow: 0 0 10px #c0c0c04d;
   border-radius: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .header-hidden {
@@ -40,12 +43,8 @@
 }
 
 .search {
-  border: none;
-  height: 54px;
-  background: transparent;
-  font-size: 17px;
-  padding: 18px;
-  text-align: center;
+  height: 28px;
+  margin: 0 10px;
 }
 
 .toggle-form {

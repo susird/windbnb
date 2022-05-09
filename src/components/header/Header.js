@@ -12,7 +12,7 @@ export const Header = () => {
         <div className='form-container'>
           <button className='city-button' onClick={() => setToggle(!toggle)}>Helsinki, Finland</button>
           <button className='guests'>Add guests</button>
-          <button className='search'>X</button>
+          <input className='search' type="image" alt='search button' src={process.env.PUBLIC_URL + "/images/search.svg"} />
         </div>
       </header>
       {toggle && <form className='toggle-form'>

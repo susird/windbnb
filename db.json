@@ -1,0 +1,71 @@
+{
+  "products": 
+    [
+      {
+        "sku": "1",
+        "title": "Stylist apartment in center of the city",
+        "description": "Entire apartment",
+        "beds": "2 beds",
+        "score": "4.40",
+        "host": "super host",
+        "img": {
+          "product": "url"
+        }
+      },
+      {
+        "sku": "2",
+        "title": "Cozy, peaceful and private room with...",
+        "description": "Private room",
+        "beds": "",
+        "score": "4.25",
+        "host": "",
+        "img": {
+          "product": "url"
+        }
+      },
+      {
+        "sku": "3",
+        "title": "Mordern House in a remote area",
+        "description": "Entire house",
+        "beds": "",
+        "score": "4.96",
+        "host": "",
+        "img": {
+          "product": "url"
+        }
+      },
+      {
+        "sku": "4",
+        "title": "Stylist room in design district",
+        "description": "Entire apartment",
+        "beds": "2 beds",
+        "score": "4.85",
+        "host": "super host",
+        "img": {
+          "product": "url"
+        }
+      },
+      {
+        "sku": "5",
+        "title": "Modern apartment close to nature",
+        "description": "Private room",
+        "beds": "",
+        "score": "4.54",
+        "host": "",
+        "img": {
+          "product": "url"
+        }
+      },
+      {
+        "sku": "6",
+        "title": "House in a remote area",
+        "description": "Entire house",
+        "beds": "",
+        "score": "4.64",
+        "host": "",
+        "img": {
+          "product": "url"
+        }
+      }
+    ]
+}
