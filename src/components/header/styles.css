@@ -2,9 +2,9 @@
   display: flex;
   padding: 50px 80px;
   justify-content: space-between;
-  position: -webkit-sticky;
   position: sticky;
-  top:80px;
+  top: 0px;
+  background: white;
 }
 
 .logo-mage {

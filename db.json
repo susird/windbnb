@@ -9,7 +9,7 @@
         "score": "4.40",
         "host": "super host",
         "img": {
-          "product": "public/images/img_1.jpeg"
+          "product": "/images/img_1.jpeg"
         }
       },
       {
@@ -20,7 +20,7 @@
         "score": "4.25",
         "host": "",
         "img": {
-          "product": "public/images/img_2.jpeg"
+          "product": "/images/img_2.jpeg"
         }
       },
       {
@@ -31,7 +31,7 @@
         "score": "4.96",
         "host": "",
         "img": {
-          "product": "public/images/img_3.jpeg"
+          "product": "/images/img_3.jpeg"
         }
       },
       {
@@ -42,7 +42,7 @@
         "score": "4.85",
         "host": "super host",
         "img": {
-          "product": "public/images/img_4.jpeg"
+          "product": "/images/img_4.jpeg"
         }
       },
       {
@@ -53,7 +53,7 @@
         "score": "4.54",
         "host": "",
         "img": {
-          "product": "public/images/img_5.jpeg"
+          "product": "/images/img_5.jpeg"
         }
       },
       {
@@ -64,7 +64,7 @@
         "score": "4.64",
         "host": "",
         "img": {
-          "product": "public/images/img_6.jpeg"
+          "product": "/images/img_6.jpeg"
         }
       }
     ]
