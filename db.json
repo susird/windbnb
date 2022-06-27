@@ -50,7 +50,10 @@
         "title": "Modern apartment close to nature",
         "description": "Private room",
         "beds": "",
-        "score": "4.54",
+        "score": {
+          "rating": "4.54",
+          "img": "images/img_5.jpeg"
+        },
         "host": "",
         "img": {
           "product": "images/img_5.jpeg"

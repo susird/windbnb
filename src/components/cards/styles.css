@@ -8,4 +8,19 @@
 .card-img {
   width: 500px;
   height: 400px;
+  border-radius: 24px;
+}
+
+.host-type {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 12px;
+  width: 14%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.details-container-range {
+
 }
