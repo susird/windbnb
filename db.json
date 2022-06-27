@@ -52,7 +52,7 @@
         "beds": "",
         "score": {
           "rating": "4.54",
-          "img": "images/img_5.jpeg"
+          "img": "images/star.svg"
         },
         "host": "",
         "img": {
@@ -64,7 +64,10 @@
         "title": "House in a remote area",
         "description": "Entire house",
         "beds": "",
-        "score": "4.64",
+        "score": {
+          "rating": "4.54",
+          "img": "images/star.svg"
+        },
         "host": "",
         "img": {
           "product": "images/img_6.jpeg"
