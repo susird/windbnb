@@ -6,7 +6,10 @@
         "title": "Stylist apartment in center of the city",
         "description": "Entire apartment",
         "beds": "2 beds",
-        "score": "4.40",
+        "score": {
+          "rating": "4.40",
+          "img": "images/star.svg"
+        },
         "host": "super host",
         "img": {
           "product": "images/img_1.jpeg"
@@ -17,7 +20,10 @@
         "title": "Cozy, peaceful and private room with...",
         "description": "Private room",
         "beds": "",
-        "score": "4.25",
+        "score": {
+          "rating": "4.25",
+          "img": "images/star.svg"
+        },
         "host": "",
         "img": {
           "product": "images/img_2.jpeg"
@@ -28,7 +34,10 @@
         "title": "Mordern House in a remote area",
         "description": "Entire house",
         "beds": "",
-        "score": "4.96",
+        "score": {
+          "rating": "4.96",
+          "img": "images/star.svg"
+        },
         "host": "",
         "img": {
           "product": "images/img_3.jpeg"
@@ -39,7 +48,10 @@
         "title": "Stylist room in design district",
         "description": "Entire apartment",
         "beds": "2 beds",
-        "score": "4.85",
+        "score": {
+          "rating": "4.85",
+          "img": "images/star.svg"
+        },
         "host": "super host",
         "img": {
           "product": "images/img_4.jpeg"
@@ -65,7 +77,7 @@
         "description": "Entire house",
         "beds": "",
         "score": {
-          "rating": "4.54",
+          "rating": "4.64",
           "img": "images/star.svg"
         },
         "host": "",
